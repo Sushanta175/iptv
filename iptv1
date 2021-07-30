@@ -1,0 +1,14 @@
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Kids",Disney Channel Hindi 
+ http://stream-7b694ce7e.nmbs.top/m3u/Kids/c86abe8bd6.m3u8 
+ 
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Kids",Marvel HQ 
+ http://stream-7b694ce7e.nmbs.top/m3u/Kids/c9878efeae.m3u8 
+ 
+  #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/TCF8nBO.jpg" group-title="",Hungama Digital Network 
+ http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8 
+ 
+  #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Kids",Cartoon Network India 
+ http://stream-7b694ce7e.nmbs.top/m3u/Kids/1e0a653ba1.m3u8 
+ 
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Zee TV 
+ https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8 
